@@ -1,0 +1,47 @@
+body{
+    background: rgb(230, 228, 228);
+}
+
+.collapse .navbar-nav .nav-item a{
+    font-size: x-large;
+}
+
+.collapse .navbar-nav .nav-item a:hover {
+    color: rgb(0, 0, 0);
+}
+
+
+/*Container*/
+.container {
+    background: #fff;
+}
+
+.contenido-principal h1 {
+    color: red;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+
+.contenido-principal .informacion p {
+    text-align: justify;
+    font-size: x-large;
+}
+
+/*Satelite*/
+.contenido-principal .satelite {
+    text-align: center;
+}
+
+/*----Archivos-----*/
+.container .imagenes img {
+    padding-bottom: 15px;
+}
+
+
+.container .imagenes h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
